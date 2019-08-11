@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ooFFiioo.github.io/"/>
-  <updated>2019-08-10T04:42:01.059Z</updated>
+  <updated>2019-08-11T07:16:23.506Z</updated>
   <id>https://ooFFiioo.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ooFFiioo.github.io/2019/08/10/Hello/"/>
     <id>https://ooFFiioo.github.io/2019/08/10/Hello/</id>
     <published>2019-08-09T16:00:00.000Z</published>
-    <updated>2019-08-10T04:42:01.059Z</updated>
+    <updated>2019-08-11T07:16:23.506Z</updated>
     
     <content type="html"><![CDATA[<p>你好，朋友</p><p>这是我的第一篇blog，从此以后如果我有空闲时间，将会在这里分享我的心得与知识</p><p>谢谢</p>]]></content>
     
@@ -31,10 +31,10 @@
     
     </summary>
     
-      <category term="livelihood" scheme="https://ooFFiioo.github.io/categories/livelihood/"/>
+      <category term="生活" scheme="https://ooFFiioo.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="livelihood" scheme="https://ooFFiioo.github.io/tags/livelihood/"/>
+      <category term="生活" scheme="https://ooFFiioo.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
